@@ -7,7 +7,7 @@ MAIN IDEA OF JS:
 // creating everything as object and its done in another js file
 
 import {cart} from '../data/cart.js';  //.. makes the location et out of the current location
-
+import {products} from '../data/products.js';
 
 let productsHTML = '';
 
